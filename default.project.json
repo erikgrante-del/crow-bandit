@@ -31,6 +31,6 @@
   },
   "syncback": {
     "ignoreNames": ["Camera", "Terrain"],
-    "ignoreClasses": ["Camera", "Terrain", "SpawnLocation"]
+    "ignoreClasses": ["Camera", "Terrain"]
   }
 }

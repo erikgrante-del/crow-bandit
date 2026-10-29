@@ -1,0 +1,5 @@
+# Строки: чтобы Luau-скрипты не «дёргались» из-за CRLF/LF между машинами.
+* text=auto
+*.luau text eol=lf
+*.lua  text eol=lf
+*.rbxmx text
