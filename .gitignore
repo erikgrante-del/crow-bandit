@@ -1,0 +1,15 @@
+# Собранные бинарные места (источник правды — папка src/)
+/build/
+/out/
+*.rbxl
+*.rbxlx
+
+# Служебные данные Argon
+.argon/
+
+# ОС и редакторы
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/*
+!.vscode/settings.json

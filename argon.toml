@@ -1,0 +1,4 @@
+# Настройки проекта Argon (переопределяют глобальные).
+# .luau вместо .lua — под стиль репозитория.
+lua_extension = true
+ignore_line_endings = true
