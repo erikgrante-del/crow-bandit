@@ -24,7 +24,7 @@ Git, если его нет, поставь из GitHub Desktop (`https://deskto
 1. Создай пустой репозиторий на GitHub (например, `crow-bandit`), **не** добавляй README.
 2. В этой папке:
    ```
-   git remote add origin https://github.com/<ты>/crow-bandit.git
+   git remote add origin https://github.com/erikgrante-del/crow-bandit.git
    git branch -M main
    git push -u origin main
    ```
@@ -32,7 +32,7 @@ Git, если его нет, поставь из GitHub Desktop (`https://deskto
 
 ## Первый запуск (для соавтора)
 
-1. `git clone https://github.com/<ты>/crow-bandit.git`
+1. `git clone https://github.com/erikgrante-del/crow-bandit.git`
 2. `setup.bat` (один раз).
 3. Открыть место **Crow Bandit** в Studio.
 4. `sync.bat` → в Studio **Argon → Connect**.
