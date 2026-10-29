@@ -1,5 +1,8 @@
-# Строки: чтобы Luau-скрипты не «дёргались» из-за CRLF/LF между машинами.
+# Строки: чтобы файлы не «дёргались» из-за CRLF/LF между машинами.
 * text=auto
 *.luau text eol=lf
 *.lua  text eol=lf
+# .bat/.cmd ДОЛЖНЫ быть в Windows-формате (CRLF), иначе cmd ломается.
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
 *.rbxmx text
